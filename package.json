@@ -1,0 +1,22 @@
+{
+  "name": "my-app-one",
+  "version": "1.0.0",
+  "description": "my express app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Valeprogr/my-app-one.git"
+  },
+  "author": "valentina vittoria",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Valeprogr/my-app-one/issues"
+  },
+  "homepage": "https://github.com/Valeprogr/my-app-one#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
